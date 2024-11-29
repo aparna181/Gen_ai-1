@@ -4,10 +4,10 @@
 
 
 #Features:
-         Model Configuration: Customize parameters such as temperature and top_p for response generation.
-         Receipt Image Handling: Automatically formats and processes receipt images for data extraction.
-         Interactive UI: A Gradio-based interface for uploading images and providing custom prompts.
-         Local Deployment: Easily deploy the solution locally using Python.
+         (a)Model Configuration: Customize parameters such as temperature and top_p for response generation.
+         (b)Receipt Image Handling: Automatically formats and processes receipt images for data extraction.
+         (c)Interactive UI: A Gradio-based interface for uploading images and providing custom prompts.
+         (d)Local Deployment: Easily deploy the solution locally using Python.
 
 #Prerequisites
   Python 3.7 or above
