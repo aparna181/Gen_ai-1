@@ -1,6 +1,6 @@
-# Gen_ai-1
-#Receipt Data Extraction using MultiModal LLM (Google Gemini)
-This project demonstrates how to extract structured data from image files, such as receipts, using the Gemini-1.5-flash model from Google Generative AI. It features a Gradio-powered interactive user interface to upload images and generate structured outputs based on user-defined prompts.
+# Gen_ai-1 
+# Title: Data Extraction using MultiModal LLM (Google Gemini)  
+#This project demonstrates how to extract structured data from image files, such as receipts, using the Gemini-1.5-flash model from Google Generative AI. It features a Gradio-powered interactive user interface to upload images and generate structured outputs based on user-defined prompts.
 
 
 #Features:
